@@ -1,12 +1,8 @@
 <script setup>
-import Hero from './components/Hero.vue';
-import Navbar from './components/Navbar.vue';
-import HomeCards from './components/HomeCards.vue'
-import JobListings from './components/JobListings.vue'
+import Navbar from './components/Navbar.vue'
+import { RouterView } from 'vue-router';
 </script>
 <template>
-  <Navbar />
-  <Hero title="Apiwut" />
-  <HomeCards />
-  <JobListings :limit="3" />
+    <Navbar />
+    <RouterView />
 </template>

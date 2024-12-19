@@ -16,4 +16,4 @@ onErrorCaptured - call when an error is captured from child component
 
 # day 2 not setup tailwind css
 
-# day 3 homeCard component
+# day 3 router
