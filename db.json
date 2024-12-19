@@ -55,6 +55,20 @@
         "contactEmail": "contact@inet.co.th",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "b1e5",
+      "type": "Full-Time",
+      "title": "Hi",
+      "description": "Hi Desc",
+      "salary": "Under $50K",
+      "location": "Thailand",
+      "company": {
+        "name": "Cname",
+        "description": "C DEsc",
+        "contactEmail": "a@b.com",
+        "contactPhone": "0985932024"
+      }
     }
   ]
 }

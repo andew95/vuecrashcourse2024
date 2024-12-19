@@ -58,7 +58,7 @@ onMounted(async () => {
         //
         form.type = state.job.type
         form.title = state.job.title
-        form.description = state.job.desciption
+        form.description = state.job.description
         form.salary = state.job.salary
         form.location = state.job.location
         form.company.name = state.job.company.name
