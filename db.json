@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Developer",
+      "type": "Full-Time",
+      "description": "เป็น Backend พัฒนา API ด้วยภาษา Golang เชื่อต่อกับ Database PostgreSQL, 3rd Party API(เช่น LINE) เขียน Unit Test",
+      "location": "Pathum Wan, Bangkok",
+      "salary": "NA",
+      "company": {
+        "name": "Greenmoons CO., LTD.",
+        "description": "-",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Golang Developer",
+      "type": "Full-Time",
+      "description": "พัฒนา module เรียก microservice ด้วย Golang",
+      "location": "Din Daeng, Bangkok",
+      "salary": "NA",
+      "company": {
+        "name": "Nityo",
+        "description": "-",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Programmer",
+      "type": "Full-Time",
+      "description": "เขียน API ด้วยภาษา PHP(Yii2) ที่ทำหน้าที่ CRUD ข้อมูลเข้ากับ Database MongoDB, เขียน Module สำหรับทำ image processing, (imagine library), upload file, ส่ง email (Gmail), ออกแบบฐานข้อมูล และเขียนคู่มือการใช้งาน API ส่งให้กับทีมพัฒนา Web และ Android Application และทำงานพัฒนา API ด้วยภาษา Golang สำหรับจัดการ Content ให้ Web ThaipbsKid",
+      "location": "Sila, Khon Kaen",
+      "salary": "29K",
+      "company": {
+        "name": "BLISHTECH CO., LTD.",
+        "description": "-",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Software Engineer",
+      "type": "Part-Time",
+      "description": "ทดสอบระบบ Web Automate/Manual Test เขียน Python Script เพื่อใช้ตรวจสอบ event บน  vm (CPU, RAM) พัฒนาระบบ Invoice เขียน API ด้วยภาษา Python สำหรับจัดการข้อมูลของ Invoice เชื่อต่อกับ MariaDB ร่วมพัฒนาระบบ ERP ชื่อ Focus One (ASP.NET, C#) เช่นแก้ css bug, แก้ logic, แก้ไข้ frontend สร้างระบบจัดการ API Key สำหรับ 3rd Party",
+      "location": "Sila, Khon Kaen",
+      "salary": "18K",
+      "company": {
+        "name": "INET CO., LTD.",
+        "description": "-",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    }
+  ]
+}

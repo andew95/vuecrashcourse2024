@@ -3,11 +3,11 @@ import { defineProps } from 'vue';
 defineProps({
     title: {
         type: String,
-        default: 'Become Software Developer',
+        default: 'Hello, I\' Apiwut',
     },
     subtitle: {
         type: String,
-        default: 'Subtitle Description',
+        default: 'I\'m Backend Developer, Seeking a new role to expand my skill set and gain fresh experiences. Open to new opportunities. ',
     },
 })
 </script>
